@@ -2,13 +2,13 @@
 
 ### Instructions
 At Verv we offer a utility switching service. For this service we require users
-to input their current gas and electricity tariffs, and provide them with the
-functionality to change their tariffs.
+to input their current electricity tariffs, and provide them with the
+functionality to change their tariff.
 
 The task is to build single page app which:
 
-1. Displays a user's gas & electricity tariffs and payment methods
-2. Allows the user to select a different gas & electricity tariff
+1. Displays a user's electricity tariffs and payment methods
+2. Allows the user to select a different electricity tariff
 
 You are provided with a mock backend server which has two routes.
 
@@ -26,7 +26,7 @@ http://localhost:3000/tariffs
 
 Using these backend routes, create a dashboard with everything you feel is
 required (dropdown, select, options etc.) to allow users to view & change their
-tariffs.
+tariff.
 
 Display any data you think is relevant.
 
